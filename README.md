@@ -1,4 +1,6 @@
 # summer-computational-pathology
+
+![Summer Computational Pathology](assets/summer-computational-pathology-banner-unipd.png)
 Literature review and reproducibility work on pathology foundation models, with a focus on Prov-GigaPath.
 
 ## Overview
