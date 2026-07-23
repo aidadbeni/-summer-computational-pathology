@@ -21,7 +21,7 @@ demo using a compressed whole-slide pathology image.
 ## Current progress
 
 - [x] Started the assigned literature review
-- [x] Read three assigned papers
+- [x] Read two assigned papers
 - [x] Reviewed the purpose of HoVer-Net
 - [ ] Reviewed the purpose of UNI
 - [ ] Inspected the Prov-GigaPath repository
